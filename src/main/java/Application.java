@@ -1,6 +1,6 @@
 import com.leapcode.service.SpeakerService;
 import com.leapcode.service.SpeakerServiceImpl;
-
+//start at it
 public class Application {
     public static void main(String[] args){
         SpeakerService service = new SpeakerServiceImpl();
